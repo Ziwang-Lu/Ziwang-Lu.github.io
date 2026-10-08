@@ -10,7 +10,7 @@ Ziwang Lu is a postdoctoral researcher and Shuimu Tsinghua Scholar at the School
 
 Research Topics
 ======
-1. Optimization and Control of Electric-Drive Transmission System
+1. Optimization and Control of Electric-Drive Transmission System.
 2. Powertrain Coordination and Energy Management. 
 3. Vehicle Dynamics Control.
 
