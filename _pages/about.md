@@ -8,6 +8,12 @@ redirect_from:
 ---
 Ziwang Lu is a postdoctoral researcher and Shuimu Tsinghua Scholar at the School of Vehicle and Mobility, Tsinghua University. His research develops modelling, optimization, and control methods for electrified vehicle systems, spanning electric-drive transmissions, hybrid powertrain energy management, and vehicle dynamics and intelligent chassis control. He combines physics-based modelling, optimal and predictive control, data-driven methods, and experimental validation to improve vehicle efficiency, shift quality, and dynamic stability. He received his PhD from Tsinghua University, undertook joint doctoral research at Stanford University, and currently leads competitively funded national and municipal research projects.
 
+Research Topics
+======
+1. Optimization and Control of Electric-Drive Transmission System
+2. Powertrain Coordination and Energy Management. 
+3. Vehicle Dynamics Control.
+
 <!--This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
