@@ -16,89 +16,92 @@ Research Topics
 
 
 <!-- Research Demonstrations -->
+
 <section class="research-demo">
-  <h2>Research Demonstrations</h2>
-  <p class="research-demo-intro">
-    Selected demonstrations of my research on electric powertrain
-    optimization and control, coordinated energy management, and
-    vehicle dynamics control.
+  <h2>Research</h2>
+
+  <p>
+    My research focuses on powertrain system optimization and control,
+    energy management, and vehicle dynamics control.
+    Click on each topic to learn more.
   </p>
 
   <div class="research-demo-grid">
 
     <!-- Research 1 -->
-    <article class="research-demo-card">
+    <a class="research-demo-card"
+       href="{{ '/research/transmission/' | relative_url }}">
+
       <img
         src="{{ '/images/research/transmission.jpg' | relative_url }}"
-        alt="Electric powertrain transmission system"
-        loading="lazy">
+        alt="Transmission Optimization">
 
-      <h3>Transmission Optimization</h3>
+      <h3>Transmission Optimization and Control</h3>
+
       <p>
         Physics-based optimization and control of multi-speed
-        electric vehicle transmissions.
+        electric vehicle transmissions, including shift control
+        and torque coordination.
       </p>
-    </article>
 
-    <!-- Arrow between Research 1 and Research 2 -->
+      <span class="research-demo-link">
+        Explore Research &rarr;
+      </span>
+    </a>
+
+    <!-- Arrow -->
     <div class="research-demo-arrow" aria-hidden="true">
-      &#8594;
+      &rarr;
     </div>
 
     <!-- Research 2 -->
-    <article class="research-demo-card">
+    <a class="research-demo-card"
+       href="{{ '/research/powertrain-control/' | relative_url }}">
+
       <img
         src="{{ '/images/research/powertrain-control.jpg' | relative_url }}"
-        alt="Powertrain coordinated control"
-        loading="lazy">
+        alt="Powertrain Control and Energy Management">
 
-      <h3>Powertrain Control</h3>
+      <h3>Powertrain Control and Energy Management</h3>
+
       <p>
-        Coordinated control and energy management for electrified
-        powertrains.
+        Coordinated control and energy management strategies
+        for hybrid and electric powertrains.
       </p>
-    </article>
 
-    <!-- Arrow between Research 2 and Research 3 -->
+      <span class="research-demo-link">
+        Explore Research &rarr;
+      </span>
+    </a>
+
+    <!-- Arrow -->
     <div class="research-demo-arrow" aria-hidden="true">
-      &#8594;
+      &rarr;
     </div>
 
     <!-- Research 3 -->
-    <article class="research-demo-card">
+    <a class="research-demo-card"
+       href="{{ '/research/vehicle-dynamics/' | relative_url }}">
+
       <img
         src="{{ '/images/research/vehicle-dynamics.jpg' | relative_url }}"
-        alt="Vehicle dynamics control"
-        loading="lazy">
+        alt="Vehicle Dynamics Control">
 
       <h3>Vehicle Dynamics Control</h3>
+
       <p>
-        Integrated powertrain and vehicle-level dynamics control.
+        Integrated powertrain and vehicle-level dynamics control,
+        with a focus on tire forces and vehicle stability.
       </p>
-    </article>
 
-  </div>
+      <span class="research-demo-link">
+        Explore Research &rarr;
+      </span>
+    </a>
 
-  <!-- Video Demonstration -->
-  <div class="research-demo-video">
-    <h3>Demonstration: Power-Shift Control System</h3>
-
-    <video
-      controls
-      preload="metadata"
-      poster="{{ '/images/research/shift-demo-poster.jpg' | relative_url }}">
-      <source
-        src="{{ '/files/videos/shift-control-demo.mp4' | relative_url }}"
-        type="video/mp4">
-      Your browser does not support HTML video.
-    </video>
-
-    <p class="research-demo-caption">
-      Demonstration of power-shift control for a multi-speed
-      electric vehicle transmission.
-    </p>
   </div>
 </section>
+
 
 <!--This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
