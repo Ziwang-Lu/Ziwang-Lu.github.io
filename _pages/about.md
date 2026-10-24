@@ -36,7 +36,7 @@ Research Topics
         src="{{ '/images/research/transmission.jpg' | relative_url }}"
         alt="Transmission Optimization">
 
-      <h3>Transmission Optimization and Control</h3>
+      <h3>Transmission Optimization</h3>
 
       <p>
         Physics-based optimization and control of multi-speed
