@@ -14,6 +14,92 @@ Research Topics
 2. Powertrain Coordination and Energy Management. 
 3. Vehicle Dynamics Control.
 
+
+<!-- Research Demonstrations -->
+<section class="research-demo">
+  <h2>Research Demonstrations</h2>
+  <p class="research-demo-intro">
+    Selected demonstrations of my research on electric powertrain
+    optimization and control, coordinated energy management, and
+    vehicle dynamics control.
+  </p>
+
+  <div class="research-demo-grid">
+
+    <!-- Research 1 -->
+    <article class="research-demo-card">
+      <img
+        src="{{ '/images/research/transmission.jpg' | relative_url }}"
+        alt="Electric powertrain transmission system"
+        loading="lazy">
+
+      <h3>Transmission Optimization</h3>
+      <p>
+        Physics-based optimization and control of multi-speed
+        electric vehicle transmissions.
+      </p>
+    </article>
+
+    <!-- Arrow between Research 1 and Research 2 -->
+    <div class="research-demo-arrow" aria-hidden="true">
+      &#8594;
+    </div>
+
+    <!-- Research 2 -->
+    <article class="research-demo-card">
+      <img
+        src="{{ '/images/research/powertrain-control.jpg' | relative_url }}"
+        alt="Powertrain coordinated control"
+        loading="lazy">
+
+      <h3>Powertrain Control</h3>
+      <p>
+        Coordinated control and energy management for electrified
+        powertrains.
+      </p>
+    </article>
+
+    <!-- Arrow between Research 2 and Research 3 -->
+    <div class="research-demo-arrow" aria-hidden="true">
+      &#8594;
+    </div>
+
+    <!-- Research 3 -->
+    <article class="research-demo-card">
+      <img
+        src="{{ '/images/research/vehicle-dynamics.jpg' | relative_url }}"
+        alt="Vehicle dynamics control"
+        loading="lazy">
+
+      <h3>Vehicle Dynamics Control</h3>
+      <p>
+        Integrated powertrain and vehicle-level dynamics control.
+      </p>
+    </article>
+
+  </div>
+
+  <!-- Video Demonstration -->
+  <div class="research-demo-video">
+    <h3>Demonstration: Power-Shift Control System</h3>
+
+    <video
+      controls
+      preload="metadata"
+      poster="{{ '/images/research/shift-demo-poster.jpg' | relative_url }}">
+      <source
+        src="{{ '/files/videos/shift-control-demo.mp4' | relative_url }}"
+        type="video/mp4">
+      Your browser does not support HTML video.
+    </video>
+
+    <p class="research-demo-caption">
+      Demonstration of power-shift control for a multi-speed
+      electric vehicle transmission.
+    </p>
+  </div>
+</section>
+
 <!--This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
