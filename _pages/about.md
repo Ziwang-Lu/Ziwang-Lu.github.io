@@ -18,87 +18,50 @@ Research Topics
 <!-- Research Demonstrations -->
 
 <section class="research-demo">
-  <h2>Research</h2>
+  
+<div class="research-topics">
 
-  <p>
-    My research focuses on powertrain system optimization and control,
-    energy management, and vehicle dynamics control.
-    <!--Click on each topic to learn more.-->
-  </p>
+  <a class="research-topic"
+     href="{{ '/research/transmission/' | relative_url }}">
+    <img
+      src="{{ '/images/research/transmission.jpg' | relative_url }}"
+      alt="Transmission Optimization">
+    <h3>Transmission Optimization and Control</h3>
+    <p>
+      Physics-based optimization and control of multi-speed
+      electric vehicle transmissions.
+    </p>
+    <span>Explore Research →</span>
+  </a>
 
-  <div class="research-demo-grid">
+  <a class="research-topic"
+     href="{{ '/research/powertrain-control/' | relative_url }}">
+    <img
+      src="{{ '/images/research/powertrain-control.jpg' | relative_url }}"
+      alt="Powertrain Control">
+    <h3>Powertrain Control and Energy Management</h3>
+    <p>
+      Coordinated control and energy management strategies
+      for hybrid and electric powertrains.
+    </p>
+    <span>Explore Research →</span>
+  </a>
 
-    <!-- Research 1 -->
-    <a class="research-demo-card"
-       href="{{ '/research/transmission/' | relative_url }}">
+  <a class="research-topic"
+     href="{{ '/research/vehicle-dynamics/' | relative_url }}">
+    <img
+      src="{{ '/images/research/vehicle-dynamics.jpg' | relative_url }}"
+      alt="Vehicle Dynamics Control">
+    <h3>Vehicle Dynamics Control</h3>
+    <p>
+      Integrated powertrain and vehicle-level dynamics control,
+      with a focus on tire forces and vehicle stability.
+    </p>
+    <span>Explore Research →</span>
+  </a>
 
-      <img
-        src="{{ '/images/research/transmission.jpg' | relative_url }}"
-        alt="Transmission Optimization">
+</div>
 
-      <h3>Transmission Optimization</h3>
-
-      <p>
-        Physics-based optimization and control of multi-speed
-        electric vehicle transmissions.
-      </p>
-
-      <span class="research-demo-link">
-         <!-- Explore Research &rarr;-->
-      </span>
-    </a>
-
-    <!-- Arrow -->
-    <div class="research-demo-arrow" aria-hidden="true">
-      &rarr;
-    </div>
-
-    <!-- Research 2 -->
-    <a class="research-demo-card"
-       href="{{ '/research/powertrain-control/' | relative_url }}">
-
-      <img
-        src="{{ '/images/research/powertrain-control.jpg' | relative_url }}"
-        alt="Powertrain Control and Energy Management">
-
-      <h3>Powertrain Control and Energy Management</h3>
-
-      <p>
-        Coordinated control and energy management strategies
-        for hybrid and electric powertrains.
-      </p>
-
-      <span class="research-demo-link">
-          <!--Explore Research &rarr;-->
-      </span>
-    </a>
-
-    <!-- Arrow -->
-    <div class="research-demo-arrow" aria-hidden="true">
-      &rarr;
-    </div>
-
-    <!-- Research 3 -->
-    <a class="research-demo-card"
-       href="{{ '/research/vehicle-dynamics/' | relative_url }}">
-
-      <img
-        src="{{ '/images/research/vehicle-dynamics.jpg' | relative_url }}"
-        alt="Vehicle Dynamics Control">
-
-      <h3>Vehicle Dynamics Control</h3>
-
-      <p>
-        Integrated powertrain and vehicle-level dynamics control,
-        with a focus on tire forces and vehicle stability.
-      </p>
-
-      <span class="research-demo-link">
-          <!--Explore Research &rarr;-->
-      </span>
-    </a>
-
-  </div>
 </section>
 
 
