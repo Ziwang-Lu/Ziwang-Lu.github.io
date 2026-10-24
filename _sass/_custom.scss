@@ -1,132 +1,90 @@
 
-/* Research demonstrations */
-.research-demo {
-  margin: 2em 0;
-}
-
-.research-demo-intro {
-  margin-bottom: 1.5em;
-  max-width: 850px;
-}
-
+/* Research topic layout */
 .research-demo-grid {
   display: grid;
   grid-template-columns: minmax(0, 1fr) auto
                          minmax(0, 1fr) auto
                          minmax(0, 1fr);
   gap: 18px;
-  align-items: center;
+  align-items: start;
 }
 
+/* Each research card */
 .research-demo-card {
+  display: flex;
+  flex-direction: column;
   min-width: 0;
+  height: 100%;
+  color: inherit;
+  text-decoration: none;
 }
 
+/* Images: identical size and fixed position */
 .research-demo-card img {
   display: block;
   width: 100%;
-  aspect-ratio: 4 / 3;
+  height: 190px;
+  flex: 0 0 190px;
   object-fit: cover;
+  object-position: center;
+  margin: 0 0 14px;
   border-radius: 6px;
-  margin-bottom: 12px;
 }
 
+/* Titles: always start at the same vertical position */
 .research-demo-card h3 {
-  margin-top: 0.5em;
-  margin-bottom: 0.4em;
-  font-size: 1em;
+  margin: 0 0 10px;
+  min-height: 3em;
+  line-height: 1.5;
+  font-size: 1.05em;
+  color: #174a8b;
 }
 
+/* Descriptions: flow naturally below titles */
 .research-demo-card p {
-  font-size: 0.88em;
+  margin: 0 0 12px;
+  font-size: 0.9em;
   line-height: 1.6;
+  color: #555;
 }
 
-.research-demo-arrow {
-  font-size: 1.8em;
-  color: #777;
-  text-align: center;
-}
-
-.research-demo-video {
-  margin-top: 2.5em;
-  max-width: 850px;
-}
-
-.research-demo-video video {
+/* Links */
+.research-demo-link {
   display: block;
-  width: 100%;
-  height: auto;
-  border-radius: 6px;
+  margin-top: auto;
+  padding-top: 8px;
+  color: #1769c2;
+  font-size: 0.9em;
+  font-weight: 600;
 }
 
-.research-demo-caption {
-  margin-top: 0.7em;
-  font-size: 0.85em;
-  color: #666;
+/* Arrows between research cards */
+.research-demo-arrow {
+  align-self: center;
+  color: #1769c2;
+  font-size: 1.8em;
 }
 
-/* Responsive layout for mobile devices */
+/* Mobile layout */
 @media screen and (max-width: 768px) {
   .research-demo-grid {
-    grid-template-columns: 1fr;
-    gap: 20px;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 24px;
+  }
+
+  .research-demo-card img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    flex-basis: auto;
+  }
+
+  .research-demo-card h3 {
+    min-height: 0;
   }
 
   .research-demo-arrow {
     transform: rotate(90deg);
-    font-size: 1.5em;
-  }
-
-  .research-demo-video {
-    margin-top: 2em;
+    justify-self: center;
   }
 }
-
-
-.research-demo-card {
-  display: block;
-  color: inherit;
-  text-decoration: none;
-  min-width: 0;
-  transition: transform 0.2s ease;
-}
-
-.research-demo-card:hover {
-  text-decoration: none;
-  transform: translateY(-3px);
-}
-
-.research-demo-card img {
-  display: block;
-  width: 100%;
-  aspect-ratio: 4 / 3;
-  object-fit: cover;
-  border-radius: 6px;
-  margin-bottom: 12px;
-}
-
-.research-demo-card h3 {
-  color: #174a8b;
-  font-size: 1.05em;
-}
-
-.research-demo-card p {
-  color: #555;
-  line-height: 1.6;
-}
-
-.research-demo-link {
-  display: inline-block;
-  color: #1769c2;
-  font-size: 0.9em;
-  font-weight: 600;
-  margin-top: 6px;
-}
-
-.research-demo-card:focus-visible {
-  outline: 2px solid #1769c2;
-  outline-offset: 4px;
-}
-
-
