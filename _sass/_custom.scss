@@ -83,3 +83,50 @@
   }
 }
 
+
+.research-demo-card {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+  min-width: 0;
+  transition: transform 0.2s ease;
+}
+
+.research-demo-card:hover {
+  text-decoration: none;
+  transform: translateY(-3px);
+}
+
+.research-demo-card img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border-radius: 6px;
+  margin-bottom: 12px;
+}
+
+.research-demo-card h3 {
+  color: #174a8b;
+  font-size: 1.05em;
+}
+
+.research-demo-card p {
+  color: #555;
+  line-height: 1.6;
+}
+
+.research-demo-link {
+  display: inline-block;
+  color: #1769c2;
+  font-size: 0.9em;
+  font-weight: 600;
+  margin-top: 6px;
+}
+
+.research-demo-card:focus-visible {
+  outline: 2px solid #1769c2;
+  outline-offset: 4px;
+}
+
+
