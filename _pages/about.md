@@ -23,7 +23,7 @@ Research Topics
   <p>
     My research focuses on powertrain system optimization and control,
     energy management, and vehicle dynamics control.
-    Click on each topic to learn more.
+    <!--Click on each topic to learn more.-->
   </p>
 
   <div class="research-demo-grid">
@@ -40,12 +40,11 @@ Research Topics
 
       <p>
         Physics-based optimization and control of multi-speed
-        electric vehicle transmissions, including shift control
-        and torque coordination.
+        electric vehicle transmissions.
       </p>
 
       <span class="research-demo-link">
-        Explore Research &rarr;
+         <!-- Explore Research &rarr;-->
       </span>
     </a>
 
@@ -70,7 +69,7 @@ Research Topics
       </p>
 
       <span class="research-demo-link">
-        Explore Research &rarr;
+          <!--Explore Research &rarr;-->
       </span>
     </a>
 
@@ -95,7 +94,7 @@ Research Topics
       </p>
 
       <span class="research-demo-link">
-        Explore Research &rarr;
+          <!--Explore Research &rarr;-->
       </span>
     </a>
 
