@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Vehicle Dynamics Control"
