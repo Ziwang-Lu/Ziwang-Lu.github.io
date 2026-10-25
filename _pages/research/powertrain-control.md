@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Powertrain Control and Energy Management"
