@@ -21,8 +21,8 @@ Research Topics
   
 <div class="research-topics">
 
-  <a class="research-topic"
-     <!--href="{{ '/research/transmission/' | relative_url }}"-->>
+   <!--<a class="research-topic"
+    href="{{ '/research/transmission/' | relative_url }}">-->
     <img
       src="{{ '/images/research/transmission.jpg' | relative_url }}"
       alt="Transmission Optimization">
@@ -34,8 +34,8 @@ Research Topics
     <span>Explore Research →</span>
   </a>
 
-  <a class="research-topic"
-     <!--href="{{ '/research/powertrain-control/' | relative_url }}"-->>
+  <!--<a class="research-topic"
+     href="{{ '/research/powertrain-control/' | relative_url }}">-->
     <img
       src="{{ '/images/research/powertrain-control.jpg' | relative_url }}"
       alt="Powertrain Control">
@@ -47,8 +47,8 @@ Research Topics
     <span>Explore Research →</span>
   </a>
 
-  <a class="research-topic"
-     <!--href="{{ '/research/vehicle-dynamics/' | relative_url }}"-->>
+  <!--<a class="research-topic"
+     href="{{ '/research/vehicle-dynamics/' | relative_url }}">-->
     <img
       src="{{ '/images/research/vehicle-dynamics.jpg' | relative_url }}"
       alt="Vehicle Dynamics Control">
