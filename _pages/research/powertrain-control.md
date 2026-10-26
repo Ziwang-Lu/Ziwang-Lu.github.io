@@ -17,6 +17,38 @@ efficiency, drivability, and system-level performance.-->
 
 Advanced control strategies for coordinated engine and motor operation.
 
+<div style="display:flex; gap:24px; width:100%; align-items:flex-start;">
+
+  <figure style="flex:1; min-width:0; margin:0; display:flex; flex-direction:column;">
+
+    <div style="width:100%; height:300px; display:flex; align-items:center; justify-content:center;">
+      <img src="{{ '/images/research/P2Architechture.jpg' | relative_url }}"
+           alt="Experimental Platform for Transmission Control"
+           style="width:100%; height:100%; object-fit:contain; display:block;">
+    </div>
+
+    <figcaption style="width:100%; box-sizing:border-box; margin:12px 0 0; text-align:center; font-family:inherit; font-size:0.9em; font-weight:600; line-height:1.5;">
+      Powertrain Architecture
+    </figcaption>
+
+  </figure>
+
+  <figure style="flex:1; min-width:0; margin:0; display:flex; flex-direction:column;">
+
+    <div style="width:100%; height:300px; display:flex; align-items:center; justify-content:center;">
+      <img src="{{ '/images/research/P2_Results.jpg' | relative_url }}"
+           alt="Real Vehicle"
+           style="width:100%; height:100%; object-fit:contain; display:block;">
+    </div>
+
+    <figcaption style="width:100%; box-sizing:border-box; margin:12px 0 0; text-align:center; font-family:inherit; font-size:0.9em; font-weight:600; line-height:1.5;">
+      Results
+    </figcaption>
+
+  </figure>
+
+</div>
+
 ### Energy Management
 
 Optimization-based and data-driven strategies for efficient
