@@ -1,4 +1,4 @@
-<img width="1096" height="81" alt="image" src="https://github.com/user-attachments/assets/432c1d83-ab97-4c5c-9ee3-4517f7123bd4" />---
+---
 layout: single
 title: "Transmission Optimization and Control"
 permalink: /research/transmission/
