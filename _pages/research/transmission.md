@@ -47,7 +47,7 @@ angular alignment strategies for synchronizer-free transmissions.
      alt="RealVehicle_final"
      style="width:50%; max-width:800px;">     
 
-*Experimental platform for powertrain shift control.*
+<!--*Experimental platform for powertrain shift control.*-->
 
 <!--## Related Publications
 
