@@ -55,10 +55,40 @@ Optimization-based and data-driven strategies for efficient
 power distribution under varying driving conditions.
 
 ## Experimental Platform
+<div style="display:flex; gap:24px; width:100%; align-items:flex-start;">
 
-<img src="{{ '/images/research/powertrain-control.jpg' | relative_url }}"
+  <figure style="flex:1; min-width:0; margin:0; display:flex; flex-direction:column;">
+
+    <div style="width:100%; height:300px; display:flex; align-items:center; justify-content:center;">
+      <img src="{{ '/images/research/HardwareInLoop.jpg' | relative_url }}"
+           alt="Experimental Platform for Transmission Control"
+           style="width:100%; height:100%; object-fit:contain; display:block;">
+    </div>
+
+    <figcaption style="width:100%; box-sizing:border-box; margin:12px 0 0; text-align:center; font-family:inherit; font-size:0.9em; font-weight:600; line-height:1.5;">
+      Hardware In Loop
+    </figcaption>
+
+  </figure>
+
+  <figure style="flex:1; min-width:0; margin:0; display:flex; flex-direction:column;">
+
+    <div style="width:100%; height:300px; display:flex; align-items:center; justify-content:center;">
+      <img src="{{ '/images/research/powertrain-control.jpg' | relative_url }}"
+           alt="Real Vehicle"
+           style="width:100%; height:100%; object-fit:contain; display:block;">
+    </div>
+
+    <figcaption style="width:100%; box-sizing:border-box; margin:12px 0 0; text-align:center; font-family:inherit; font-size:0.9em; font-weight:600; line-height:1.5;">
+      Test Bench
+    </figcaption>
+
+  </figure>
+
+</div>
+<!--<img src="{{ '/images/research/powertrain-control.jpg' | relative_url }}"
      alt="Powertrain control research"
-     style="width:100%; max-width:800px;">
+     style="width:100%; max-width:800px;">-->
 
 <!--## Video Demonstration
 
