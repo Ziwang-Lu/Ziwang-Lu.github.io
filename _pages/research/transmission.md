@@ -24,6 +24,11 @@ and transmission configurations on electric vehicle system efficiency.
 Developing coordinated motor speed synchronization and
 angular alignment strategies for synchronizer-free transmissions.
 
+<video controls preload="metadata" width="100%">
+  <source src="{{ '/files/videos/shift-control-demo.mp4' | relative_url }}"
+          type="video/mp4">
+</video>
+
 **Highlighted Contributions**
 1. Transmission Optimization and Control.
 2. Powertrain Control and Energy Management. 
