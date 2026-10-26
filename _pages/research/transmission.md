@@ -1,4 +1,4 @@
----
+<img width="1096" height="81" alt="image" src="https://github.com/user-attachments/assets/432c1d83-ab97-4c5c-9ee3-4517f7123bd4" />---
 layout: single
 title: "Transmission Optimization and Control"
 permalink: /research/transmission/
@@ -30,9 +30,12 @@ angular alignment strategies for synchronizer-free transmissions.
 </video>
 
 **Highlighted Contributions**
-1. Transmission Optimization and Control.
-2. Powertrain Control and Energy Management. 
-3. Vehicle Dynamics Control at the Tire-Road Interface.
+1. The maximum error of system modeling is less than 2%.
+2. Speed and angle are synchronized simultaneously, eliminating shift impacts.
+3. Eliminating the neutral-gear waiting time, the gear shifting time is reduced to 210 ms.
+4. The gear-shifting time is reduced within 230 ms in the vehicle-start stage, effectively solving the problem of sliding down on the slope.
+
+
 <!--poster="{{ '/images/research/shift-demo-poster.jpg' | relative_url }}"-->
 ## Experimental Demonstration
 
