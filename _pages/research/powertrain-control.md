@@ -75,7 +75,6 @@ Building on component-level transmission optimization and control, his research 
            alt="Experimental Platform for Transmission Control"
            style="width:100%; height:100%; object-fit:contain; display:block;">
     </div>
-
     <figcaption style="width:100%; box-sizing:border-box; margin:4px 0 0; text-align:center; font-family:inherit; font-size:0.9em; font-weight:600; line-height:1.5;">
       Hardware In Loop
     </figcaption>
@@ -89,7 +88,6 @@ Building on component-level transmission optimization and control, his research 
            alt="Real Vehicle"
            style="width:100%; height:100%; object-fit:contain; display:block;">
     </div>
-
     <figcaption style="width:100%; box-sizing:border-box; margin:4px 0 0; text-align:center; font-family:inherit; font-size:0.9em; font-weight:600; line-height:1.5;">
       Test Bench
     </figcaption>
