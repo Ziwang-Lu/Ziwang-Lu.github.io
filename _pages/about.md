@@ -31,7 +31,7 @@ Research Topics
       Physics-based optimization and control of multi-speed
       electric vehicle transmissions.
     </p>
-    <span>Explore Research →</span>
+    <!--<span>Explore Research →</span>-->
   </a>
 
   <a class="research-topic"
@@ -44,7 +44,7 @@ Research Topics
       Coordinated control and energy management strategies
       for hybrid and electric powertrains.
     </p>
-    <span>Explore Research →</span>
+    <!--<span>Explore Research →</span>-->
   </a>
 
   <a class="research-topic"
@@ -57,7 +57,7 @@ Research Topics
       Integrated powertrain and vehicle-level dynamics control,
       with a focus on tire forces and vehicle stability.
     </p>
-    <span>Explore Research →</span>
+    <!--<span>Explore Research →</span>-->
   </a>
 
 </div>
