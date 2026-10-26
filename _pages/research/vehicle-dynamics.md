@@ -16,11 +16,71 @@ and coordinated motion control.-->
 Coordinating powertrain actuation and vehicle dynamics control
 to improve stability and handling performance.
 
+<div style="display:flex; gap:24px; width:100%; align-items:flex-start;">
+
+  <figure style="flex:1; min-width:0; margin:0; display:flex; flex-direction:column;">
+
+    <div style="width:100%; height:300px; display:flex; align-items:center; justify-content:center;">
+      <img src="{{ '/images/research/Tire_Force_Estimator.jpg' | relative_url }}"
+           alt="Experimental Platform for Transmission Control"
+           style="width:100%; height:100%; object-fit:contain; display:block;">
+    </div>
+
+    <figcaption style="width:100%; box-sizing:border-box; margin:0px 0 0; text-align:center; font-family:inherit; font-size:0.9em; font-weight:600; line-height:1.5;">
+      Test Bench
+    </figcaption>
+
+  </figure>
+
+  <figure style="flex:1; min-width:0; margin:0; display:flex; flex-direction:column;">
+
+    <div style="width:100%; height:300px; display:flex; align-items:center; justify-content:center;">
+      <img src="{{ '/images/research/ClosedLoopControlDiagram.jpg' | relative_url }}"
+           alt="Real Vehicle"
+           style="width:100%; height:100%; object-fit:contain; display:block;">
+    </div>
+
+    <figcaption style="width:100%; box-sizing:border-box; margin:0px 0 0; text-align:center; font-family:inherit; font-size:0.9em; font-weight:600; line-height:1.5;">
+      Real Vehicle
+    </figcaption>
+
+  </figure>
+
+</div>
+
 ## Experimental Platform
 
-<img src="{{ '/images/research/vehicle-dynamics.jpg' | relative_url }}"
-     alt="Vehicle dynamics control"
-     style="width:100%; max-width:800px;">
+<div style="display:flex; gap:24px; width:100%; align-items:flex-start;">
+
+  <figure style="flex:1; min-width:0; margin:0; display:flex; flex-direction:column;">
+
+    <div style="width:100%; height:300px; display:flex; align-items:center; justify-content:center;">
+      <img src="{{ '/images/research/Tire_testbench.png' | relative_url }}"
+           alt="Experimental Platform for Transmission Control"
+           style="width:100%; height:100%; object-fit:contain; display:block;">
+    </div>
+
+    <figcaption style="width:100%; box-sizing:border-box; margin:0px 0 0; text-align:center; font-family:inherit; font-size:0.9em; font-weight:600; line-height:1.5;">
+      Test Bench
+    </figcaption>
+
+  </figure>
+
+  <figure style="flex:1; min-width:0; margin:0; display:flex; flex-direction:column;">
+
+    <div style="width:100%; height:300px; display:flex; align-items:center; justify-content:center;">
+      <img src="{{ '/images/research/vehicle-dynamics.jpg' | relative_url }}"
+           alt="Real Vehicle"
+           style="width:100%; height:100%; object-fit:contain; display:block;">
+    </div>
+
+    <figcaption style="width:100%; box-sizing:border-box; margin:0px 0 0; text-align:center; font-family:inherit; font-size:0.9em; font-weight:600; line-height:1.5;">
+      Real Vehicle
+    </figcaption>
+
+  </figure>
+
+</div>
 
 ## Video Demonstration
 
