@@ -23,8 +23,7 @@ and transmission configurations on electric vehicle system efficiency.
 
 Developing coordinated motor speed synchronization and
 angular alignment strategies for synchronizer-free transmissions.
-<video controls preload="metadata" width="100%"
-       poster="{{ '/images/research/shift-demo-poster.jpg' | relative_url }}">
+<video controls preload="metadata" width="100%">
   <source src="{{ '/files/videos/shift-control-demo.mp4' | relative_url }}"
           type="video/mp4">
 </video>
@@ -32,7 +31,7 @@ angular alignment strategies for synchronizer-free transmissions.
 1. Transmission Optimization and Control.
 2. Powertrain Control and Energy Management. 
 3. Vehicle Dynamics Control at the Tire-Road Interface.
-
+<!--poster="{{ '/images/research/shift-demo-poster.jpg' | relative_url }}"-->
 ## Experimental Demonstration
 
 <video controls preload="metadata" width="100%"
