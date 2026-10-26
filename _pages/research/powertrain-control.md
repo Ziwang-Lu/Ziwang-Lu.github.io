@@ -99,6 +99,8 @@ Building on component-level transmission optimization and control, my research e
           type="video/mp4">
 </video>
 
+Developed the high- and low-voltage electrical architecture, electric-drive system, and vehicle-level control strategies for an electric trailer; completed the prototype vehicle development, forming a road-coupled hybrid powertrain system with the towing vehicle.
+
 <!--<img src="{{ '/images/research/powertrain-control.jpg' | relative_url }}"
      alt="Powertrain control research"
      style="width:100%; max-width:800px;">-->
