@@ -12,6 +12,11 @@ multi-speed electric vehicle transmissions, with an emphasis
 on shifting performance, system efficiency, and reliable
 mechanical engagement.
 
+### Transmission Parameter Optimization
+
+Investigating the effects of gear ratios, motor characteristics,
+and transmission configurations on electric vehicle system efficiency.
+
 ## Key Research Topics
 
 ### Time-Optimal Shift Control
@@ -19,10 +24,10 @@ mechanical engagement.
 Developing coordinated motor speed synchronization and
 angular alignment strategies for synchronizer-free transmissions.
 
-### Transmission Parameter Optimization
-
-Investigating the effects of gear ratios, motor characteristics,
-and transmission configurations on electric vehicle system efficiency.
+**Highlighted Contributions**
+1. Transmission Optimization and Control.
+2. Powertrain Control and Energy Management. 
+3. Vehicle Dynamics Control at the Tire-Road Interface.
 
 ## Experimental Demonstration
 
