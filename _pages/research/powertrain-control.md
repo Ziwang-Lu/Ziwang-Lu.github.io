@@ -11,7 +11,7 @@ My research focuses on coordinated control and energy management
 for hybrid and electric powertrains, aiming to improve energy
 efficiency, drivability, and system-level performance.-->
 
-Building on component-level transmission optimization and control, my research extends to coordinated powertrain control and energy management for hybrid vehicles. I investigate engine-start control, multi-source power coordination, and predictive energy management to balance dynamic performance, energy efficiency, and drivability under varying operating conditions. By combining physics-based modeling, optimal control, and data-driven methods, I develop control strategies that coordinate power sources across different operating conditions and time scales.
+Building on component-level transmission optimization and control, his research extends to coordinated powertrain control and energy management for hybrid vehicles. He investigates engine-start control, multi-source power coordination, and predictive energy management to balance dynamic performance, energy efficiency, and drivability under varying operating conditions. By combining physics-based modeling, optimal control, and data-driven methods, he develops control strategies that coordinate power sources across different operating conditions and time scales.
 
 <div style="display:flex; gap:24px; width:100%; align-items:flex-start;">
 
