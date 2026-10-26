@@ -5,19 +5,13 @@ permalink: /research/transmission/
 author_profile: true
 ---
 
-## Research Overview
 
-My research investigates the optimization and control of
-multi-speed electric vehicle transmissions, with an emphasis
-on shifting performance, system efficiency, and reliable
-mechanical engagement.
+## Key Research Topics
 
 ### Transmission Parameter Optimization
 
 Investigating the effects of gear ratios, motor characteristics,
 and transmission configurations on electric vehicle system efficiency.
-
-## Key Research Topics
 
 ### Time-Optimal Gear-Shifting Control
 
@@ -40,7 +34,7 @@ angular alignment strategies for synchronizer-free transmissions.
 ## Experimental Demonstration
 
 <video controls preload="metadata" width="100%">
-  <source src="{{ '/files/videos/shift-control-demo.mp4' | relative_url }}"
+  <source src="{{ '/files/videos/shift-control-testbench.mp4' | relative_url }}"
           type="video/mp4">
 </video>
 
