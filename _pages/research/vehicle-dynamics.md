@@ -86,7 +86,7 @@ to improve stability and handling performance.
 
 <!-- Replace the video below with a relevant vehicle dynamics demo. -->
 
-<div style="display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:20px 24px; width:100%;">
+<div style="display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:20px 24px; width:100%;">
 
   <!-- Video 1 -->
   <div style="min-width:0; margin:0; padding:0; display:flex; flex-direction:column;">
@@ -95,18 +95,7 @@ to improve stability and handling performance.
       <source src="{{ '/files/videos/Circle_First.mp4' | relative_url }}" type="video/mp4">
     </video>
     <div style="margin:0 !important; padding:0 !important; text-align:center; font-family:inherit; font-size:0.9em; font-weight:600; line-height:1.3;">
-      Video Title 1
-    </div>
-  </div>
-
-  <!-- Video 2 -->
-  <div style="min-width:0; margin:0; padding:0; display:flex; flex-direction:column;">
-    <video controls playsinline preload="metadata"
-           style="width:100%; aspect-ratio:16/9; height:auto; display:block; margin:0; padding:0;">
-      <source src="{{ '/files/videos/Circle_third.mp4' | relative_url }}" type="video/mp4">
-    </video>
-    <div style="margin:0 !important; padding:0 !important; text-align:center; font-family:inherit; font-size:0.9em; font-weight:600; line-height:1.3;">
-      Video Title 2
+      Fixed Circle Test
     </div>
   </div>
 
@@ -117,7 +106,7 @@ to improve stability and handling performance.
       <source src="{{ '/files/videos/doublelines_Third.mp4' | relative_url }}" type="video/mp4">
     </video>
     <div style="margin:0 !important; padding:0 !important; text-align:center; font-family:inherit; font-size:0.9em; font-weight:600; line-height:1.3;">
-      Video Title 3
+      Double Lane Change Test
     </div>
   </div>
 
@@ -128,7 +117,7 @@ to improve stability and handling performance.
       <source src="{{ '/files/videos/Rolling_First.mp4' | relative_url }}" type="video/mp4">
     </video>
     <div style="margin:0 !important; padding:0 !important; text-align:center; font-family:inherit; font-size:0.9em; font-weight:600; line-height:1.3;">
-      Video Title 4
+      Slalom Test
     </div>
   </div>
 
@@ -139,20 +128,9 @@ to improve stability and handling performance.
       <source src="{{ '/files/videos/Rolling_Third.mp4' | relative_url }}" type="video/mp4">
     </video>
     <div style="margin:0 !important; padding:0 !important; text-align:center; font-family:inherit; font-size:0.9em; font-weight:600; line-height:1.3;">
-      Video Title 5
+      Circular Driving Test
     </div>
-  </div>
-
-  <!-- Video 6 -->
-  <div style="min-width:0; margin:0; padding:0; display:flex; flex-direction:column;">
-    <video controls playsinline preload="metadata"
-           style="width:100%; aspect-ratio:16/9; height:auto; display:block; margin:0; padding:0;">
-      <source src="{{ '/files/videos/Speeding.mp4' | relative_url }}" type="video/mp4">
-    </video>
-    <div style="margin:0 !important; padding:0 !important; text-align:center; font-family:inherit; font-size:0.9em; font-weight:600; line-height:1.3;">
-      Video Title 6
-    </div>
-  </div>
+  </div> 
 
 </div>
 
