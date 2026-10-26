@@ -15,9 +15,9 @@ Currently, his research is focusing on:
 
 <!--Research Overview
 ======
-Ziwang Lu’s research focuses on the optimization and control of powertrain systems for new energy vehicles, with an emphasis on the fundamental connections between power transmission, powertrain coordination, tire–road interactions, and vehicle motion. His research follows a coherent progression from component-level design and control to powertrain-system coordination and, ultimately, vehicle dynamics and motion control. First, he investigates transmission architecture and parameter optimization, as well as precision shifting control for electric-drive transmissions, to improve power transmission efficiency and shift quality. Building on this foundation, he extends his research to hybrid powertrain coordination and energy management, aiming to optimize power allocation and energy utilization under diverse operating conditions. Tire dynamics serves as the critical link between the powertrain and overall vehicle motion. Accordingly, he further investigates transient tire dynamics, tire force estimation, and tire–road interactions to understand how tire forces develop and influence vehicle controllability. These studies provide a foundation for extending powertrain control to integrated vehicle motion control, including the coordinated control of propulsion, steering, and braking systems. Collectively, his research establishes a systematic framework that connects powertrain optimization and control, tire dynamics, and vehicle-level dynamics and motion control.
+Ziwang Lu’s research focuses on the optimization and control of powertrain systems for new energy vehicles, with an emphasis on the fundamental connections between power transmission, powertrain coordination, tire–road interactions, and vehicle motion. His research follows a coherent progression from component-level design and control to powertrain-system coordination and, ultimately, vehicle dynamics and motion control. First, he investigates transmission architecture and parameter optimization, as well as precision shifting control for electric-drive transmissions, to improve power transmission efficiency and shift quality. Building on this foundation, he extends his research to hybrid powertrain coordination and energy management, aiming to optimize power allocation and energy utilization under diverse operating conditions. Tire dynamics serves as the critical link between the powertrain and overall vehicle motion. Accordingly, he further investigates transient tire dynamics, tire force estimation, and tire–road interactions to understand how tire forces develop and influence vehicle controllability. These studies provide a foundation for extending powertrain control to integrated vehicle motion control, including the coordinated control of propulsion, steering, and braking systems. Collectively, his research establishes a systematic framework that connects powertrain optimization and control, tire dynamics, and vehicle-level dynamics and motion control.-->
 
-Currently, his research is focusing on:
+<!--Currently, his research is focusing on:
 1. Transmission Optimization and Control.
 2. Powertrain Control and Energy Management. 
 3. Vehicle Dynamics Control at the Tire-Road Interface.-->
@@ -39,7 +39,7 @@ Currently, his research is focusing on:
       Physics-based optimization and control of multi-speed
       electric vehicle transmissions.
     </p>
-    <!--<span>Explore Research →</span>-->
+    <span>Explore Research →</span>
   </a>-->
 
   <!--<a class="research-topic"
@@ -52,7 +52,7 @@ Currently, his research is focusing on:
       Coordinated control and energy management strategies
       for hybrid and electric powertrains.
     </p>
-    <!--<span>Explore Research →</span>-->
+    <span>Explore Research →</span>
   </a>-->
 
   <!--<a class="research-topic"
@@ -65,7 +65,7 @@ Currently, his research is focusing on:
       Integrated powertrain and vehicle-level dynamics control,
       with a focus on tire forces and vehicle stability.
     </p>
-    <!--<span>Explore Research →</span>-->
+    <span>Explore Research →</span>
   </a>-->
 
 <!--</div>-->
