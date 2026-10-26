@@ -84,7 +84,7 @@ Tire dynamics provides the critical link between powertrain operation and overal
 
 </div>
 
-## Video Demonstration
+## Experimental Demonstration
 
 <!-- Replace the video below with a relevant vehicle dynamics demo. -->
 
