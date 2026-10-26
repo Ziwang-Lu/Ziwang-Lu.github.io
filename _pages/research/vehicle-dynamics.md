@@ -136,7 +136,7 @@ to improve stability and handling performance.
   <div style="min-width:0; margin:0; padding:0; display:flex; flex-direction:column;">
     <video controls playsinline preload="metadata"
            style="width:100%; aspect-ratio:16/9; height:auto; display:block; margin:0; padding:0;">
-      <source src="{{ '/files/videos/Rolling_Third.mkv' | relative_url }}" type="video/mp4">
+      <source src="{{ '/files/videos/Rolling_Third.mp4' | relative_url }}" type="video/mp4">
     </video>
     <div style="margin:0 !important; padding:0 !important; text-align:center; font-family:inherit; font-size:0.9em; font-weight:600; line-height:1.3;">
       Video Title 5
