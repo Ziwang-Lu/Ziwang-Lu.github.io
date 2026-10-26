@@ -45,6 +45,11 @@ Tire dynamics provides the critical link between powertrain operation and overal
 
 </div>
 
+**Highlighted Contributions**
+1. Established a vehicle-dynamics framework incorporating transient tire characteristics and actuator dynamics to quantify recoverable vehicle-state regions under varying road and operating conditions.
+2. Developed tire-dynamics-based methods for estimating tire forces using distributed in-tire acceleration measurements.
+3. Investigated tire-force feedback and coordinated vehicle control strategies to improve path tracking and vehicle controllability, clarifying the role of tire–road interactions in connecting powertrain actuation with vehicle motion.
+
 ## Experimental Platform
 
 <div style="display:flex; gap:24px; width:100%; align-items:flex-start;">
