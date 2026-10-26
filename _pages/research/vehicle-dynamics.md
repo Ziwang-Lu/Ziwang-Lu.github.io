@@ -77,7 +77,7 @@ Tire dynamics provides the critical link between powertrain operation and overal
     </div>
 
     <figcaption style="width:100%; box-sizing:border-box; margin:0px 0 0; text-align:center; font-family:inherit; font-size:0.9em; font-weight:600; line-height:1.5;">
-      Real Vehicle
+      Four-Wheel Independent-Drive and Independent-Steering Vehicle
     </figcaption>
 
   </figure>
