@@ -5,18 +5,7 @@ permalink: /research/transmission/
 author_profile: true
 ---
 
-
-## Key Research Topics
-
-### Transmission Parameter Optimization
-
-Investigating the effects of gear ratios, motor characteristics,
-and transmission configurations on electric vehicle system efficiency.
-
-### Time-Optimal Gear-Shifting Control
-
-Developing coordinated motor speed synchronization and
-angular alignment strategies for synchronizer-free transmissions.
+My research focuses on transmission architecture and parameter optimization, as well as precision shifting control for electric-drive transmissions. By integrating optimization with advanced control strategies, I aim to improve power transmission efficiency, shifting smoothness, and continuity of power delivery. My work on synchronizer-free electric-drive transmissions addresses the coupled challenges of speed synchronization, angular alignment, and torque coordination, enabling fast and smooth gear shifting under practical operating conditions.
 
 <video controls preload="metadata" width="100%">
   <source src="{{ '/files/videos/shift-control-demo.mp4' | relative_url }}"
