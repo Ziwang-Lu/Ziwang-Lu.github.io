@@ -57,7 +57,7 @@ angular alignment strategies for synchronizer-free transmissions.
            style="width:100%; height:100%; object-fit:contain; display:block;">
     </div>
 
-    <figcaption style="width:100%; box-sizing:border-box; margin:4px 0 0; text-align:center; font-family:inherit; font-size:0.9em; font-weight:600; line-height:1.5;">
+    <figcaption style="width:100%; box-sizing:border-box; margin:0px 0 0; text-align:center; font-family:inherit; font-size:0.9em; font-weight:600; line-height:1.5;">
       Test Bench
     </figcaption>
 
@@ -71,7 +71,7 @@ angular alignment strategies for synchronizer-free transmissions.
            style="width:100%; height:100%; object-fit:contain; display:block;">
     </div>
 
-    <figcaption style="width:100%; box-sizing:border-box; margin:4px 0 0; text-align:center; font-family:inherit; font-size:0.9em; font-weight:600; line-height:1.5;">
+    <figcaption style="width:100%; box-sizing:border-box; margin:0px 0 0; text-align:center; font-family:inherit; font-size:0.9em; font-weight:600; line-height:1.5;">
       Real Vehicle
     </figcaption>
 
