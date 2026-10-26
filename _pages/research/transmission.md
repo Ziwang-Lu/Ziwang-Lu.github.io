@@ -43,6 +43,7 @@ angular alignment strategies for synchronizer-free transmissions.
 <img src="{{ '/images/research/Transmission_testbench' | relative_url }}"
      alt="Electric powertrain experimental platform"
      style="width:20%; max-width:800px;">
+     
 <img src="{{ '/images/research/RealVehicle_final' | relative_url }}"
      alt="Electric powertrain experimental platform"
      style="width:20%; max-width:800px;">     
