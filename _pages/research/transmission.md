@@ -61,7 +61,7 @@ His research focuses on transmission architecture and parameter optimization, as
     </div>
 
     <figcaption style="width:100%; box-sizing:border-box; margin:0px 0 0; text-align:center; font-family:inherit; font-size:0.9em; font-weight:600; line-height:1.5;">
-      Real Vehicle
+      49-Ton Heavy-Duty Commercial Vehicle
     </figcaption>
 
   </figure>
