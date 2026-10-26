@@ -8,7 +8,12 @@ redirect_from:
 ---
 Ziwang Lu is a postdoctoral researcher and Shuimu Tsinghua Scholar at the School of Vehicle and Mobility, Tsinghua University. His research develops modelling, optimization, and control methods for electrified vehicle systems, spanning electric-drive transmissions, hybrid powertrain energy management, and vehicle dynamics and intelligent chassis control. He combines physics-based modelling, optimal and predictive control, data-driven methods, and experimental validation to improve vehicle efficiency, shift quality, and dynamic stability. He received his PhD from Tsinghua University, undertook joint doctoral research at Stanford University, and currently leads competitively funded national and municipal research projects.
 
-Research Overview
+Currently, his research is focusing on:
+1. Transmission Optimization and Control.
+2. Powertrain Control and Energy Management. 
+3. Vehicle Dynamics Control at the Tire-Road Interface.
+
+<!--Research Overview
 ======
 Ziwang Lu’s research focuses on the optimization and control of powertrain systems for new energy vehicles, with an emphasis on the fundamental connections between power transmission, powertrain coordination, tire–road interactions, and vehicle motion. His research follows a coherent progression from component-level design and control to powertrain-system coordination and, ultimately, vehicle dynamics and motion control. First, he investigates transmission architecture and parameter optimization, as well as precision shifting control for electric-drive transmissions, to improve power transmission efficiency and shift quality. Building on this foundation, he extends his research to hybrid powertrain coordination and energy management, aiming to optimize power allocation and energy utilization under diverse operating conditions. Tire dynamics serves as the critical link between the powertrain and overall vehicle motion. Accordingly, he further investigates transient tire dynamics, tire force estimation, and tire–road interactions to understand how tire forces develop and influence vehicle controllability. These studies provide a foundation for extending powertrain control to integrated vehicle motion control, including the coordinated control of propulsion, steering, and braking systems. Collectively, his research establishes a systematic framework that connects powertrain optimization and control, tire dynamics, and vehicle-level dynamics and motion control.
 
@@ -65,7 +70,7 @@ Currently, his research is focusing on:
 
 </div>
 
-</section>
+</section>-->
 
 
 <!--This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
