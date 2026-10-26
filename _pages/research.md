@@ -22,7 +22,7 @@ Ziwang Lu’s research focuses on the optimization and control of powertrain sys
 <div class="research-topics">
 
    <a class="research-topic"
-    href="{{ '' | relative_url }}">
+    href="{{ '/research/transmission' | relative_url }}">
     <img
       src="{{ '/images/research/transmission.jpg' | relative_url }}"
       alt="Transmission Optimization">
@@ -35,7 +35,7 @@ Ziwang Lu’s research focuses on the optimization and control of powertrain sys
   </a>
 
   <a class="research-topic"
-     href="{{ '' | relative_url }}">
+     href="{{ '/research/powertrain-control' | relative_url }}">
     <img
       src="{{ '/images/research/powertrain-control.jpg' | relative_url }}"
       alt="Powertrain Control">
@@ -48,7 +48,7 @@ Ziwang Lu’s research focuses on the optimization and control of powertrain sys
   </a>
 
   <a class="research-topic"
-     href="{{ '' | relative_url }}">
+     href="{{ '/research/vehicle-dynamics' | relative_url }}">
     <img
       src="{{ '/images/research/vehicle-dynamics.jpg' | relative_url }}"
       alt="Vehicle Dynamics Control at the Tire-Road Interface">
