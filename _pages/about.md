@@ -13,8 +13,8 @@ Research Overview
 Ziwang Lu’s research focuses on the optimization and control of powertrain systems for new energy vehicles, with an emphasis on the fundamental connections between power transmission, powertrain coordination, tire–road interactions, and vehicle motion. His research follows a coherent progression from component-level design and control to powertrain-system coordination and, ultimately, vehicle dynamics and motion control. First, he investigates transmission architecture and parameter optimization, as well as precision shifting control for electric-drive transmissions, to improve power transmission efficiency and shift quality. Building on this foundation, he extends his research to hybrid powertrain coordination and energy management, aiming to optimize power allocation and energy utilization under diverse operating conditions. Tire dynamics serves as the critical link between the powertrain and overall vehicle motion. Accordingly, he further investigates transient tire dynamics, tire force estimation, and tire–road interactions to understand how tire forces develop and influence vehicle controllability. These studies provide a foundation for extending powertrain control to integrated vehicle motion control, including the coordinated control of propulsion, steering, and braking systems. Collectively, his research establishes a systematic framework that connects powertrain optimization and control, tire dynamics, and vehicle-level dynamics and motion control.
 
 Currently, his research is focusing on:
-1. Transmission Design Optimization and Precision Control.
-2. Predictive Powertrain Coordination and Energy Management. 
+1. Transmission Optimization and Control.
+2. Powertrain Control and Energy Management. 
 3. Vehicle Dynamics Control at the Tire-Road Interface.
 
 
@@ -54,7 +54,7 @@ Currently, his research is focusing on:
      href="{{ '' | relative_url }}">
     <img
       src="{{ '/images/research/vehicle-dynamics.jpg' | relative_url }}"
-      alt="Vehicle Dynamics Control">
+      alt="Vehicle Dynamics Control at the Tire-Road Interface">
     <h3>Vehicle Dynamics Control</h3>
     <p>
       Integrated powertrain and vehicle-level dynamics control,
