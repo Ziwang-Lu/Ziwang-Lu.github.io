@@ -45,7 +45,7 @@ angular alignment strategies for synchronizer-free transmissions.
 
 <img src="{{ '/images/research/transmission.jpg' | relative_url }}"
      alt="Electric powertrain experimental platform"
-     style="width:100%; max-width:800px;">
+     style="width:20%; max-width:800px;">
 
 *Experimental platform for powertrain shift control.*
 
