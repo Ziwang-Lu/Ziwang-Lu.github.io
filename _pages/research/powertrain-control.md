@@ -70,7 +70,7 @@ Building on component-level transmission optimization and control, his research 
 
   <figure style="flex:1; min-width:0; margin:0; display:flex; flex-direction:column;">
 
-    <div style="width:100%; height:260px; display:flex; align-items:center; justify-content:center;">
+    <div style="width:100%; height:200px; display:flex; align-items:center; justify-content:center;">
       <img src="{{ '/images/research/HardwareInLoop.jpg' | relative_url }}"
            alt="Experimental Platform for Transmission Control"
            style="width:100%; height:100%; object-fit:contain; display:block;">
@@ -83,7 +83,7 @@ Building on component-level transmission optimization and control, his research 
 
   <figure style="flex:1; min-width:0; margin:0; display:flex; flex-direction:column;">
 
-    <div style="width:100%; height:260px; display:flex; align-items:center; justify-content:center;">
+    <div style="width:100%; height:200px; display:flex; align-items:center; justify-content:center;">
       <img src="{{ '/images/research/powertrain-control.jpg' | relative_url }}"
            alt="Real Vehicle"
            style="width:100%; height:100%; object-fit:contain; display:block;">
