@@ -47,27 +47,38 @@ angular alignment strategies for synchronizer-free transmissions.
      alt="RealVehicle_final"
      style="width:50%; max-width:800px;">-->
 
-<div style="display:flex; justify-content:center; align-items:flex-start; gap:24px; flex-wrap:wrap;">
+<div style="display:flex; justify-content:center; align-items:stretch; gap:24px; flex-wrap:wrap;">
 
-  <figure style="flex:1; min-width:250px; max-width:48%; margin:0;">
-    <img src="{{ '/images/research/Transmission_testbench.jpg' | relative_url }}"
-         alt="Electric powertrain experimental platform"
-         style="width:100%; height:auto; display:block;">
-    <figcaption style="text-align:center; font-weight:bold; margin-top:8px; font-size:0.9em;">
-      Test Bench
+  <figure style="flex:1 1 0; min-width:250px; max-width:48%; margin:0; display:flex; flex-direction:column;">
+
+    <div style="width:100%; height:260px; display:flex; align-items:center; justify-content:center; overflow:hidden;">
+      <img src="{{ '/images/research/Transmission_testbench.jpg' | relative_url }}"
+           alt="Electric powertrain experimental platform"
+           style="width:100%; height:100%; object-fit:contain; display:block;">
+    </div>
+
+    <figcaption style="height:48px; display:flex; align-items:center; justify-content:center; text-align:center; font-weight:bold; font-size:0.9em; line-height:1.4; margin-top:8px;">
+      Experimental Platform for Transmission Control
     </figcaption>
+
   </figure>
 
-  <figure style="flex:1; min-width:250px; max-width:48%; margin:0;">
-    <img src="{{ '/images/research/RealVehicle_final.png' | relative_url }}"
-         alt="Transmission control experimental setup"
-         style="width:100%; height:auto; display:block;">
-    <figcaption style="text-align:center; font-weight:bold; margin-top:8px; font-size:0.9em;">
+  <figure style="flex:1 1 0; min-width:250px; max-width:48%; margin:0; display:flex; flex-direction:column;">
+
+    <div style="width:100%; height:260px; display:flex; align-items:center; justify-content:center; overflow:hidden;">
+      <img src="{{ '/images/research/RealVehicle_final.png' | relative_url }}"
+           alt="Transmission control experimental setup"
+           style="width:100%; height:100%; object-fit:contain; display:block;">
+    </div>
+
+    <figcaption style="height:48px; display:flex; align-items:center; justify-content:center; text-align:center; font-weight:bold; font-size:0.9em; line-height:1.4; margin-top:8px;">
       Real Vehicle
     </figcaption>
+
   </figure>
 
 </div>
+
 
 
 <!--*Experimental platform for powertrain shift control.*-->
