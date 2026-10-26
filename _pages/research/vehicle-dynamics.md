@@ -11,7 +11,7 @@ My research investigates integrated powertrain and vehicle-level
 dynamics control, with a focus on tire forces, vehicle stability,
 and coordinated motion control.-->
 
-Tire dynamics provides the critical link between powertrain operation and overall vehicle motion, as tire–road forces ultimately determine how propulsion and braking commands translate into vehicle movement. My research investigates transient tire dynamics, tire force estimation, and vehicle controllability to characterize the effects of tire behavior and actuator dynamics on vehicle motion. Building on these foundations, I explore tire-force-informed vehicle motion control and the coordination of powertrain, steering, and braking systems to improve vehicle stability, maneuverability, and motion-tracking performance.
+Tire dynamics provides the critical link between powertrain operation and overall vehicle motion, as tire–road forces ultimately determine how propulsion and braking commands translate into vehicle movement. His research investigates transient tire dynamics, tire force estimation, and vehicle controllability to characterize the effects of tire behavior and actuator dynamics on vehicle motion. Building on these foundations, he explores tire-force-informed vehicle motion control and the coordination of powertrain, steering, and braking systems to improve vehicle stability, maneuverability, and motion-tracking performance.
 
 <div style="display:flex; gap:24px; width:100%; align-items:flex-start;">
 
