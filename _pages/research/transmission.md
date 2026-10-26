@@ -19,7 +19,7 @@ and transmission configurations on electric vehicle system efficiency.
 
 ## Key Research Topics
 
-### Time-Optimal Shift Control
+### Time-Optimal Gear-Shifting Control
 
 Developing coordinated motor speed synchronization and
 angular alignment strategies for synchronizer-free transmissions.
@@ -36,8 +36,7 @@ angular alignment strategies for synchronizer-free transmissions.
 <!--poster="{{ '/images/research/shift-demo-poster.jpg' | relative_url }}"-->
 ## Experimental Demonstration
 
-<video controls preload="metadata" width="100%"
-       poster="{{ '/images/research/shift-demo-poster.jpg' | relative_url }}">
+<video controls preload="metadata" width="100%">
   <source src="{{ '/files/videos/shift-control-demo.mp4' | relative_url }}"
           type="video/mp4">
 </video>
