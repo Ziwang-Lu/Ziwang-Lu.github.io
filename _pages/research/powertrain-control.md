@@ -45,7 +45,7 @@ Building on component-level transmission optimization and control, my research e
 
 </div>
 
- <figure style="flex:1; min-width:0; margin:0; display:flex; flex-direction:column;">
+ <figure style="flex:1; min-width:0; margin:4px; display:flex; flex-direction:column;">
 
     <div style="width:100%; height:300px; display:flex; align-items:center; justify-content:center;">
       <img src="{{ '/images/research/FeaturesSelected.jpg' | relative_url }}"
