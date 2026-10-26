@@ -40,11 +40,11 @@ angular alignment strategies for synchronizer-free transmissions.
 
 ## Experimental Platform
 
-<img src="{{ '/images/research/Transmission_testbench' | relative_url }}"
+<img src="{{ '/images/research/Transmission_testbench.jpg' | relative_url }}"
      alt="Transmission_testbench"
      style="width:20%; max-width:800px;">
      
-<img src="{{ '/images/research/RealVehicle_final' | relative_url }}"
+<img src="{{ '/images/research/RealVehicle_final.jpg' | relative_url }}"
      alt="RealVehicle_final"
      style="width:20%; max-width:800px;">     
 
