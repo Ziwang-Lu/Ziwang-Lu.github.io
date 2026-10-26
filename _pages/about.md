@@ -20,12 +20,12 @@ Ziwang Lu’s research focuses on the optimization and control of powertrain sys
 Currently, his research is focusing on:
 1. Transmission Optimization and Control.
 2. Powertrain Control and Energy Management. 
-3. Vehicle Dynamics Control at the Tire-Road Interface.
+3. Vehicle Dynamics Control at the Tire-Road Interface.-->
 
 
 <!-- Research Demonstrations -->
 <!--/research/transmission/ /research/powertrain-control/  /research/vehicle-dynamics/-->
-<section class="research-demo">
+<!--<section class="research-demo">
   
 <div class="research-topics">
 
