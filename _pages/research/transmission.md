@@ -52,10 +52,10 @@ angular alignment strategies for synchronizer-free transmissions.
 
 *Experimental platform for powertrain shift control.*
 
-## Related Publications
+<!--## Related Publications
 
 - Add your relevant journal articles here.
-- Add links to patents or experimental demonstrations here.
+- Add links to patents or experimental demonstrations here.-->
 
 [← Back to Research]({{ '/research/' | relative_url }})
 
