@@ -86,6 +86,12 @@ power distribution under varying driving conditions.
   </figure>
 
 </div>
+
+<video controls preload="metadata" width="100%">
+  <source src="{{ '/files/videos/Trailor_test.mp4' | relative_url }}"
+          type="video/mp4">
+</video>
+
 <!--<img src="{{ '/images/research/powertrain-control.jpg' | relative_url }}"
      alt="Powertrain control research"
      style="width:100%; max-width:800px;">-->
