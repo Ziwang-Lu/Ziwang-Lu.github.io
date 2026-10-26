@@ -54,8 +54,8 @@ Currently, his research is focusing on:
      href="{{ '' | relative_url }}">
     <img
       src="{{ '/images/research/vehicle-dynamics.jpg' | relative_url }}"
-      alt="Vehicle Dynamics Control at the Tire-Road Interface">
-    <h3>Vehicle Dynamics Control</h3>
+      alt="Vehicle Dynamics Control">
+    <h3>Vehicle Dynamics Control at the Tire-Road Interface</h3>
     <p>
       Integrated powertrain and vehicle-level dynamics control,
       with a focus on tire forces and vehicle stability.
