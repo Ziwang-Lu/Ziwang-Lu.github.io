@@ -53,8 +53,8 @@ angular alignment strategies for synchronizer-free transmissions.
     <img src="{{ '/images/research/Transmission_testbench.jpg' | relative_url }}"
          alt="Electric powertrain experimental platform"
          style="width:100%; height:auto; display:block;">
-    <figcaption style="text-align:center; margin-top:8px; font-size:0.9em; color:#666;">
-      **Test Bench**
+    <figcaption style="text-align:center; font-weight:bold; margin-top:8px; font-size:0.9em;">
+      Test Bench
     </figcaption>
   </figure>
 
@@ -62,8 +62,8 @@ angular alignment strategies for synchronizer-free transmissions.
     <img src="{{ '/images/research/RealVehicle_final.png' | relative_url }}"
          alt="Transmission control experimental setup"
          style="width:100%; height:auto; display:block;">
-    <figcaption style="text-align:center; margin-top:8px; font-size:0.9em; color:#666;">
-      **Real Vehicle**
+    <figcaption style="text-align:center; font-weight:bold; margin-top:8px; font-size:0.9em;">
+      Real Vehicle
     </figcaption>
   </figure>
 
