@@ -47,39 +47,38 @@ angular alignment strategies for synchronizer-free transmissions.
      alt="RealVehicle_final"
      style="width:50%; max-width:800px;">-->
 
-<div style="display:flex; gap:24px; align-items:stretch; width:100%;">
+<div style="display:flex; gap:24px; width:100%; align-items:flex-start;">
 
-  <!-- Left image -->
   <figure style="flex:1; min-width:0; margin:0; display:flex; flex-direction:column;">
 
     <div style="width:100%; height:300px; display:flex; align-items:center; justify-content:center;">
       <img src="{{ '/images/research/Transmission_testbench.jpg' | relative_url }}"
            alt="Experimental Platform for Transmission Control"
-           style="width:100%; height:100%; object-fit:contain; object-position:center; display:block;">
+           style="width:100%; height:100%; object-fit:contain; display:block;">
     </div>
 
-    <figcaption style="height:56px; margin-top:12px; display:flex; align-items:center; justify-content:center; text-align:center; font-weight:bold; line-height:1.4;">
+    <figcaption style="width:100%; box-sizing:border-box; margin:12px 0 0; text-align:center; font-family:inherit; font-size:0.9em; font-weight:600; line-height:1.5;">
       Test Bench
     </figcaption>
 
   </figure>
 
-  <!-- Right image -->
   <figure style="flex:1; min-width:0; margin:0; display:flex; flex-direction:column;">
 
     <div style="width:100%; height:300px; display:flex; align-items:center; justify-content:center;">
       <img src="{{ '/images/research/RealVehicle_final.png' | relative_url }}"
            alt="Real Vehicle"
-           style="width:100%; height:100%; object-fit:contain; object-position:center; display:block;">
+           style="width:100%; height:100%; object-fit:contain; display:block;">
     </div>
 
-    <figcaption style="height:56px; margin-top:12px; display:flex; align-items:center; justify-content:center; text-align:center; font-weight:bold; line-height:1.4;">
+    <figcaption style="width:100%; box-sizing:border-box; margin:12px 0 0; text-align:center; font-family:inherit; font-size:0.9em; font-weight:600; line-height:1.5;">
       Real Vehicle
     </figcaption>
 
   </figure>
 
 </div>
+
 
 
 
