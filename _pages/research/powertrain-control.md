@@ -59,6 +59,10 @@ Building on component-level transmission optimization and control, my research e
 
   </figure>
 
+**Highlighted Contributions**
+1. Developed engine-start control strategies for P2 hybrid powertrains without an integrated starter-generator (ISG), balancing start-up time, acceleration performance, and ride comfort.
+2. The method to select the optimal input features for the neural network is designed. Different combinations of input features are evaluated and compared quantitatively. 
+3. Incorporated road-gradient information and driving mission characteristics into hierarchical energy management to coordinate long-term battery energy planning with short-term power allocation.
 
 
 ## Experimental Platform
