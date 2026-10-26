@@ -54,7 +54,7 @@ angular alignment strategies for synchronizer-free transmissions.
          alt="Electric powertrain experimental platform"
          style="width:100%; height:auto; display:block;">
     <figcaption style="text-align:center; margin-top:8px; font-size:0.9em; color:#666;">
-      Test Bench
+      **Test Bench**
     </figcaption>
   </figure>
 
@@ -63,7 +63,7 @@ angular alignment strategies for synchronizer-free transmissions.
          alt="Transmission control experimental setup"
          style="width:100%; height:auto; display:block;">
     <figcaption style="text-align:center; margin-top:8px; font-size:0.9em; color:#666;">
-      Real Vehicle
+      **Real Vehicle**
     </figcaption>
   </figure>
 
