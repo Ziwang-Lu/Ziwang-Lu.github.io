@@ -29,7 +29,7 @@ Currently, his research is focusing on:
   
 <div class="research-topics">
 
-   <a class="research-topic"
+   <!--<a class="research-topic"
     href="{{ '' | relative_url }}">
     <img
       src="{{ '/images/research/transmission.jpg' | relative_url }}"
@@ -40,9 +40,9 @@ Currently, his research is focusing on:
       electric vehicle transmissions.
     </p>
     <!--<span>Explore Research →</span>-->
-  </a>
+  </a>-->
 
-  <a class="research-topic"
+  <!--<a class="research-topic"
      href="{{ '' | relative_url }}">
     <img
       src="{{ '/images/research/powertrain-control.jpg' | relative_url }}"
@@ -53,9 +53,9 @@ Currently, his research is focusing on:
       for hybrid and electric powertrains.
     </p>
     <!--<span>Explore Research →</span>-->
-  </a>
+  </a>-->
 
-  <a class="research-topic"
+  <!--<a class="research-topic"
      href="{{ '' | relative_url }}">
     <img
       src="{{ '/images/research/vehicle-dynamics.jpg' | relative_url }}"
@@ -66,7 +66,7 @@ Currently, his research is focusing on:
       with a focus on tire forces and vehicle stability.
     </p>
     <!--<span>Explore Research →</span>-->
-  </a>
+  </a>-->
 
 </div>
 
