@@ -40,12 +40,35 @@ angular alignment strategies for synchronizer-free transmissions.
 
 ## Experimental Platform
 
-<img src="{{ '/images/research/Transmission_testbench.jpg' | relative_url }}"
+<!--<img src="{{ '/images/research/Transmission_testbench.jpg' | relative_url }}"
      alt="Transmission_testbench"
-     style="width:50%; max-width:800px;">     
-<img src="{{ '/images/research/RealVehicle_final.jpg' | relative_url }}"
+     style="width:50%; max-width:800px;">-->     
+<!--<img src="{{ '/images/research/RealVehicle_final.jpg' | relative_url }}"
      alt="RealVehicle_final"
-     style="width:50%; max-width:800px;">     
+     style="width:50%; max-width:800px;">-->
+
+<div style="display:flex; justify-content:center; align-items:flex-start; gap:24px; flex-wrap:wrap;">
+
+  <figure style="flex:1; min-width:250px; max-width:48%; margin:0;">
+    <img src="{{ '/images/research/Transmission_testbench.jpg' | relative_url }}"
+         alt="Electric powertrain experimental platform"
+         style="width:100%; height:auto; display:block;">
+    <figcaption style="text-align:center; margin-top:8px; font-size:0.9em; color:#666;">
+      Test Bench
+    </figcaption>
+  </figure>
+
+  <figure style="flex:1; min-width:250px; max-width:48%; margin:0;">
+    <img src="{{ '/images/research/RealVehicle_final.png' | relative_url }}"
+         alt="Transmission control experimental setup"
+         style="width:100%; height:auto; display:block;">
+    <figcaption style="text-align:center; margin-top:8px; font-size:0.9em; color:#666;">
+      Real Vehicle
+    </figcaption>
+  </figure>
+
+</div>
+
 
 <!--*Experimental platform for powertrain shift control.*-->
 
